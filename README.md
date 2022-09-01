@@ -1,0 +1,4 @@
+- 👋 Olá , me chamo Anderson Venson.
+- 👀 Atualmente estou buscando aprender mais sobre a área de programação. Sou apaixonado por tecnologia e estou em busca da minha especialização.
+- 🌱  Estou estudando algumas linguagens de programação, Python, Java , CSS. Como estou iniciando no mundo  tech toda ajuda é bem vinda.
+-
